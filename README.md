@@ -2,7 +2,7 @@
 
 Vue + Vuex简单示例
 
-> A Vuex.js project
+> A Vue + Vuex.js project
 
 ## Build Setup
 
