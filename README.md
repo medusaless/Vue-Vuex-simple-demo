@@ -1,6 +1,6 @@
-# vuexdemo
+# vue + vuex demo
 
-Vuex简单示例
+Vue + Vuex简单示例
 
 > A Vuex.js project
 
